@@ -1,0 +1,15 @@
+# Core dependencies for NYC Taxi Big Data project
+
+# Spark engine for distributed processing
+pyspark==3.5.1
+
+# Data manipulation and analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization libraries
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Notebook environment
+jupyter==1.0.0
